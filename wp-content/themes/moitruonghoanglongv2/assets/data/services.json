@@ -1,63 +1,65 @@
 {
   "hut-be-phot": {
     "icon": "droplets",
-    "title": "Hút hầm cầu",
-    "description": "Dịch vụ hút hầm cầu chuyên nghiệp tại TP.Hồ Chí Minh",
-    "longDescription": "Dịch vụ hút hầm cầu của Hoàng Long sử dụng xe hút chân không công suất lớn từ 2m³ đến 15m³, đảm bảo xử lý nhanh chóng, sạch sẽ và không gây ô nhiễm môi trường. Đội ngũ kỹ thuật viên giàu kinh nghiệm sẽ khảo sát và tư vấn giải pháp phù hợp nhất cho từng loại hầm cầu.",
+    "title": "Hút hầm cầu Sài Gòn",
+    "description": "Hút hầm cầu tại Sài Gòn giá rẻ, minh bạch, có mặt sau 15 phút",
+    "longDescription": "Hoàng Long cung cấp dịch vụ hút hầm cầu tại Sài Gòn (TP.Hồ Chí Minh) với xe hút chân không công suất lớn từ 2m³ đến 15m³. Báo giá công khai, thợ khảo sát và thông báo chi phí trước khi thi công, khách hàng đồng ý mới tiến hành, không phát sinh thêm bất kỳ khoản nào. Cam kết xử lý sạch sẽ, không gây mùi, có mặt nhanh trong 15 phút tại khu vực nội thành.",
     "benefits": [
+      "Giá công khai chỉ từ 137.000đ/m³",
+      "Có mặt trong 15 phút nội thành",
       "Xe hút công suất lớn 2m³ - 15m³",
-      "Xử lý nhanh chóng trong 30-60 phút",
-      "Không gây mùi hôi, ô nhiễm",
-      "Vệ sinh sạch sẽ sau khi hoàn thành",
-      "Bảo hành 6 tháng",
-      "Giá cả minh bạch, không phát sinh"
+      "Hút lại miễn phí nếu chưa sạch trong 7 ngày",
+      "Bảo hành đến 5 năm cho công trình mới thi công",
+      "Hợp đồng, hóa đơn rõ ràng, phục vụ 24/7"
     ],
     "process": [
-      { "title": "Tiếp nhận yêu cầu", "description": "Nhân viên tiếp nhận thông tin và tư vấn sơ bộ qua điện thoại." },
-      { "title": "Khảo sát thực tế", "description": "Kỹ thuật viên đến khảo sát vị trí, kích thước hầm cầu." },
-      { "title": "Báo giá chi tiết", "description": "Báo giá cụ thể dựa trên khảo sát, đảm bảo không phát sinh." },
-      { "title": "Thực hiện hút", "description": "Tiến hành hút hầm cầu bằng xe chuyên dụng." },
-      { "title": "Vệ sinh hoàn thiện", "description": "Dọn dẹp sạch sẽ khu vực làm việc, nghiệm thu." }
+      { "title": "Tiếp nhận yêu cầu", "description": "Tổng đài tiếp nhận địa chỉ, tư vấn sơ bộ về dung tích và tình trạng hầm cầu." },
+      { "title": "Khảo sát tại nhà", "description": "Kỹ thuật viên có mặt trong 15 phút, kiểm tra vị trí và dung tích thực tế." },
+      { "title": "Báo giá công khai", "description": "Thông báo chi phí cụ thể trước mặt khách hàng, đồng ý mới thi công." },
+      { "title": "Tiến hành hút", "description": "Dùng xe hút chân không chuyên dụng, xử lý nhanh trong 30-60 phút." },
+      { "title": "Vệ sinh, nghiệm thu", "description": "Dọn sạch khu vực làm việc, xuất phiếu bảo hành và hóa đơn nếu cần." }
     ],
     "pricing": [
-      { "name": "Hầm cầu gia đình (< 5m³)", "price": "200.000đ/m³" },
-      { "name": "Hầm cầu chung cư (5-10m³)", "price": "180.000đ/m³" },
-      { "name": "Hầm cầu công nghiệp (> 10m³)", "price": "150.000đ/m³", "note": "Giá ưu đãi cho khối lượng lớn" }
+      { "name": "Hầm cầu nhà phố (< 5m³)", "price": "Từ 137.000đ/m³" },
+      { "name": "Hầm cầu chung cư, biệt thự (5-10m³)", "price": "120.000đ/m³" },
+      { "name": "Hầm cầu công trình, nhà xưởng (> 10m³)", "price": "Liên hệ báo giá", "note": "Ưu đãi cho khối lượng lớn" }
     ],
     "faqs": [
-      { "question": "Bao lâu nên hút hầm cầu một lần?", "answer": "Thông thường, hầm cầu gia đình nên được hút 1-2 năm/lần. Tùy thuộc vào số người sử dụng và dung tích hầm cầu." },
-      { "question": "Có cần chuẩn bị gì trước khi hút không?", "answer": "Anh chị chỉ cần chỉ vị trí nắp hầm cầu. Nếu nắp hầm cầu bị che phủ, nhờ dọn dẹp trước giúp bên em thi công cho thuận tiện ạ." }
+      { "question": "Giá 137.000đ/m³ có phát sinh thêm không?", "answer": "Không. Đây là đơn giá công khai, kỹ thuật viên khảo sát và báo tổng chi phí cụ thể trước khi thi công, khách hàng đồng ý mới thực hiện." },
+      { "question": "Hút xong vẫn còn mùi hoặc chưa sạch thì sao?", "answer": "Hoàng Long hỗ trợ hút lại miễn phí trong vòng 7 ngày nếu khách hàng chưa hài lòng với kết quả." },
+      { "question": "Có xuất hóa đơn, hợp đồng không?", "answer": "Có. Với công trình lớn hoặc khách hàng doanh nghiệp, Hoàng Long xuất hóa đơn và ký hợp đồng đầy đủ theo yêu cầu." }
     ],
     "relatedServices": ["thong-tac-cong", "nao-vet-ho-ga"]
   },
   "thong-tac-cong": {
     "icon": "pipette",
-    "title": "Thông cống nghẹt",
-    "description": "Dịch vụ thông cống nghẹt chuyên nghiệp không cần đục phá",
-    "longDescription": "Sử dụng công nghệ thông cống bằng máy lò xo, máy áp lực cao và camera nội soi để xác định chính xác vị trí tắc và xử lý triệt để. Không cần đục phá, bảo toàn kết cấu công trình.",
+    "title": "Thông cống nghẹt TP.HCM giá rẻ",
+    "description": "Thông cống nghẹt tại TP.Hồ Chí Minh, giá chỉ từ 99.000đ, có mặt sau 30 phút",
+    "longDescription": "Hoàng Long chuyên thông cống nghẹt, thông bồn cầu, thông đường ống thoát nước tại TP.Hồ Chí Minh và các khu vực lân cận. Đội ngũ kỹ thuật viên có mặt trong 30 phút, sử dụng máy lò xo, máy áp lực cao và camera nội soi để xác định chính xác vị trí tắc, xử lý triệt để mà không cần đục phá, giữ nguyên kết cấu công trình. Báo giá rõ ràng trước khi thi công, không phát sinh chi phí.",
     "benefits": [
-      "Công nghệ thông cống hiện đại",
-      "Không cần đục phá bê tông",
-      "Xử lý triệt để mọi loại nghẹt",
-      "Camera nội soi kiểm tra",
-      "Bảo hành 3 tháng",
-      "Có mặt trong 30 phút"
+      "Giá công khai chỉ từ 99.000đ",
+      "Có mặt trong 30 phút tại nội thành",
+      "Không đục phá, giữ nguyên công trình",
+      "Camera nội soi kiểm tra trước và sau khi xử lý",
+      "Bảo hành 3-12 tháng tùy hạng mục",
+      "Phục vụ 24/7 kể cả lễ, Tết"
     ],
     "process": [
-      { "title": "Tiếp nhận", "description": "Nhận thông tin tình trạng tắc cống từ khách hàng." },
-      { "title": "Kiểm tra", "description": "Sử dụng camera nội soi xác định vị trí và nguyên nhân tắc." },
-      { "title": "Báo giá", "description": "Tư vấn phương án và báo giá phù hợp." },
-      { "title": "Thông cống", "description": "Sử dụng máy lò xo hoặc máy áp lực cao để thông." },
-      { "title": "Kiểm tra lại", "description": "Camera nội soi kiểm tra đảm bảo thông hoàn toàn." }
+      { "title": "Tiếp nhận cuộc gọi", "description": "Tổng đài ghi nhận địa chỉ và tình trạng nghẹt, tư vấn sơ bộ ngay qua điện thoại." },
+      { "title": "Kỹ thuật viên đến khảo sát", "description": "Có mặt trong 30 phút, kiểm tra thực tế vị trí và nguyên nhân gây nghẹt." },
+      { "title": "Báo giá trước khi làm", "description": "Thông báo chi phí cụ thể, khách hàng đồng ý mới tiến hành, không phát sinh." },
+      { "title": "Xử lý bằng thiết bị chuyên dụng", "description": "Dùng máy lò xo hoặc máy áp lực cao phù hợp với từng loại đường ống." },
+      { "title": "Nghiệm thu và bảo hành", "description": "Kiểm tra lại bằng camera nội soi, bàn giao phiếu bảo hành cho khách hàng." }
     ],
     "pricing": [
-      { "name": "Thông bồn cầu đơn giản", "price": "150.000đ" },
-      { "name": "Thông cống nhà bếp", "price": "200.000đ" },
-      { "name": "Thông cống thoát nước", "price": "250.000đ - 500.000đ", "note": "Tùy độ dài và mức độ tắc" }
+      { "name": "Thông bồn cầu, chậu rửa", "price": "Từ 99.000đ" },
+      { "name": "Thông cống nhà bếp, nhà tắm", "price": "150.000đ - 250.000đ" },
+      { "name": "Thông đường ống thoát nước chính", "price": "250.000đ - 500.000đ", "note": "Tùy độ dài và mức độ nghẹt thực tế" }
     ],
     "faqs": [
-      { "question": "Tại sao cống nhà anh chị hay bị tắc?", "answer": "Nguyên nhân hay gặp: dầu mỡ, tóc, giấy vệ sinh, rễ cây xâm nhập, đường ống cũ bị lún." },
-      { "question": "Thông cống có gây hư hại đường ống không?", "answer": "Công nghệ bên em dùng an toàn cho mọi loại ống. Máy lò xo và áp lực nước không làm hư ống." }
+      { "question": "Giá 99.000đ áp dụng cho trường hợp nào?", "answer": "Đây là mức giá khởi điểm cho các ca thông nghẹt đơn giản như bồn cầu, chậu rửa. Với đường ống dài hoặc nghẹt nặng, kỹ thuật viên sẽ báo giá cụ thể sau khi khảo sát, khách đồng ý mới thi công." },
+      { "question": "Bao lâu thì có nhân viên đến nhà?", "answer": "Trong khu vực nội thành TP.HCM, đội kỹ thuật thường có mặt trong khoảng 30 phút kể từ khi tiếp nhận yêu cầu." },
+      { "question": "Thông cống có làm hư đường ống cũ không?", "answer": "Thiết bị Hoàng Long sử dụng được kiểm soát lực phù hợp với từng loại ống, an toàn cho cả đường ống nhựa và ống cũ, không gây nứt vỡ." }
     ],
     "relatedServices": ["hut-be-phot", "nao-vet-ho-ga"]
   },
