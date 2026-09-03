@@ -1,0 +1,188 @@
+{
+  "hut-be-phot": {
+    "icon": "droplets",
+    "title": "Hút hầm cầu",
+    "description": "Dịch vụ hút hầm cầu chuyên nghiệp tại TP.Hồ Chí Minh",
+    "longDescription": "Dịch vụ hút hầm cầu của Hoàng Long sử dụng xe hút chân không công suất lớn từ 2m³ đến 15m³, đảm bảo xử lý nhanh chóng, sạch sẽ và không gây ô nhiễm môi trường. Đội ngũ kỹ thuật viên giàu kinh nghiệm sẽ khảo sát và tư vấn giải pháp phù hợp nhất cho từng loại hầm cầu.",
+    "benefits": [
+      "Xe hút công suất lớn 2m³ - 15m³",
+      "Xử lý nhanh chóng trong 30-60 phút",
+      "Không gây mùi hôi, ô nhiễm",
+      "Vệ sinh sạch sẽ sau khi hoàn thành",
+      "Bảo hành 6 tháng",
+      "Giá cả minh bạch, không phát sinh"
+    ],
+    "process": [
+      { "title": "Tiếp nhận yêu cầu", "description": "Nhân viên tiếp nhận thông tin và tư vấn sơ bộ qua điện thoại." },
+      { "title": "Khảo sát thực tế", "description": "Kỹ thuật viên đến khảo sát vị trí, kích thước hầm cầu." },
+      { "title": "Báo giá chi tiết", "description": "Báo giá cụ thể dựa trên khảo sát, đảm bảo không phát sinh." },
+      { "title": "Thực hiện hút", "description": "Tiến hành hút hầm cầu bằng xe chuyên dụng." },
+      { "title": "Vệ sinh hoàn thiện", "description": "Dọn dẹp sạch sẽ khu vực làm việc, nghiệm thu." }
+    ],
+    "pricing": [
+      { "name": "Hầm cầu gia đình (< 5m³)", "price": "200.000đ/m³" },
+      { "name": "Hầm cầu chung cư (5-10m³)", "price": "180.000đ/m³" },
+      { "name": "Hầm cầu công nghiệp (> 10m³)", "price": "150.000đ/m³", "note": "Giá ưu đãi cho khối lượng lớn" }
+    ],
+    "faqs": [
+      { "question": "Bao lâu nên hút hầm cầu một lần?", "answer": "Thông thường, hầm cầu gia đình nên được hút 1-2 năm/lần. Tùy thuộc vào số người sử dụng và dung tích hầm cầu." },
+      { "question": "Có cần chuẩn bị gì trước khi hút không?", "answer": "Anh chị chỉ cần chỉ vị trí nắp hầm cầu. Nếu nắp hầm cầu bị che phủ, nhờ dọn dẹp trước giúp bên em thi công cho thuận tiện ạ." }
+    ],
+    "relatedServices": ["thong-tac-cong", "nao-vet-ho-ga"]
+  },
+  "thong-tac-cong": {
+    "icon": "pipette",
+    "title": "Thông cống nghẹt",
+    "description": "Dịch vụ thông cống nghẹt chuyên nghiệp không cần đục phá",
+    "longDescription": "Sử dụng công nghệ thông cống bằng máy lò xo, máy áp lực cao và camera nội soi để xác định chính xác vị trí tắc và xử lý triệt để. Không cần đục phá, bảo toàn kết cấu công trình.",
+    "benefits": [
+      "Công nghệ thông cống hiện đại",
+      "Không cần đục phá bê tông",
+      "Xử lý triệt để mọi loại nghẹt",
+      "Camera nội soi kiểm tra",
+      "Bảo hành 3 tháng",
+      "Có mặt trong 30 phút"
+    ],
+    "process": [
+      { "title": "Tiếp nhận", "description": "Nhận thông tin tình trạng tắc cống từ khách hàng." },
+      { "title": "Kiểm tra", "description": "Sử dụng camera nội soi xác định vị trí và nguyên nhân tắc." },
+      { "title": "Báo giá", "description": "Tư vấn phương án và báo giá phù hợp." },
+      { "title": "Thông cống", "description": "Sử dụng máy lò xo hoặc máy áp lực cao để thông." },
+      { "title": "Kiểm tra lại", "description": "Camera nội soi kiểm tra đảm bảo thông hoàn toàn." }
+    ],
+    "pricing": [
+      { "name": "Thông bồn cầu đơn giản", "price": "150.000đ" },
+      { "name": "Thông cống nhà bếp", "price": "200.000đ" },
+      { "name": "Thông cống thoát nước", "price": "250.000đ - 500.000đ", "note": "Tùy độ dài và mức độ tắc" }
+    ],
+    "faqs": [
+      { "question": "Tại sao cống nhà anh chị hay bị tắc?", "answer": "Nguyên nhân hay gặp: dầu mỡ, tóc, giấy vệ sinh, rễ cây xâm nhập, đường ống cũ bị lún." },
+      { "question": "Thông cống có gây hư hại đường ống không?", "answer": "Công nghệ bên em dùng an toàn cho mọi loại ống. Máy lò xo và áp lực nước không làm hư ống." }
+    ],
+    "relatedServices": ["hut-be-phot", "nao-vet-ho-ga"]
+  },
+  "nao-vet-ho-ga": {
+    "icon": "waves",
+    "title": "Nạo vét hố ga",
+    "description": "Nạo vét hố ga, cống rãnh chuyên nghiệp",
+    "longDescription": "Dịch vụ nạo vét hố ga, cống rãnh giúp đảm bảo hệ thống thoát nước hoạt động tốt, ngăn ngừa ngập úng và mùi hôi. Phù hợp cho cả hộ gia đình và các công trình lớn.",
+    "benefits": [
+      "Làm sạch hoàn toàn bùn, cặn",
+      "Xử lý mùi hôi triệt để",
+      "Kiểm tra bằng camera",
+      "Phù hợp mọi quy mô",
+      "Đội ngũ chuyên nghiệp",
+      "Giá cả hợp lý"
+    ],
+    "process": [
+      { "title": "Khảo sát", "description": "Đánh giá tình trạng hố ga, cống rãnh." },
+      { "title": "Báo giá", "description": "Đưa ra báo giá cụ thể dựa trên khối lượng công việc." },
+      { "title": "Nạo vét", "description": "Sử dụng thiết bị chuyên dụng nạo vét bùn, cặn." },
+      { "title": "Xử lý mùi", "description": "Phun thuốc khử mùi, diệt khuẩn." },
+      { "title": "Hoàn thiện", "description": "Vệ sinh khu vực, bàn giao cho khách hàng." }
+    ],
+    "pricing": [
+      { "name": "Hố ga đơn", "price": "300.000đ/hố" },
+      { "name": "Cống rãnh", "price": "50.000đ/m dài" },
+      { "name": "Gói trọn gói nhà ở", "price": "Từ 500.000đ" }
+    ],
+    "faqs": [
+      { "question": "Bao lâu nên nạo vét hố ga?", "answer": "Nên nạo vét hố ga 6 tháng - 1 năm/lần để đảm bảo thoát nước tốt." },
+      { "question": "Có xử lý được mùi hôi không?", "answer": "Có ạ, bên em dùng hóa chất chuyên dụng để khử mùi và diệt khuẩn hiệu quả." }
+    ],
+    "relatedServices": ["thong-tac-cong", "ve-sinh-moi-truong"]
+  },
+  "ve-sinh-moi-truong": {
+    "icon": "trash2",
+    "title": "Vệ sinh môi trường",
+    "description": "Dịch vụ vệ sinh công nghiệp và thu gom rác thải",
+    "longDescription": "Cung cấp dịch vụ vệ sinh công nghiệp, thu gom rác thải sinh hoạt và công nghiệp. Đáp ứng mọi nhu cầu từ hộ gia đình đến doanh nghiệp, nhà máy, khu công nghiệp.",
+    "benefits": [
+      "Vệ sinh công nghiệp toàn diện",
+      "Thu gom rác đúng lịch",
+      "Phun khử khuẩn, diệt côn trùng",
+      "Hợp đồng linh hoạt",
+      "Đội ngũ đông đảo",
+      "Trang thiết bị hiện đại"
+    ],
+    "process": [
+      { "title": "Tư vấn", "description": "Tìm hiểu nhu cầu và tư vấn gói dịch vụ phù hợp." },
+      { "title": "Khảo sát", "description": "Khảo sát hiện trường, lên kế hoạch chi tiết." },
+      { "title": "Báo giá", "description": "Đưa ra báo giá hợp đồng theo tháng/năm." },
+      { "title": "Triển khai", "description": "Thực hiện dịch vụ theo lịch đã thống nhất." },
+      { "title": "Giám sát", "description": "Giám sát chất lượng và điều chỉnh nếu cần." }
+    ],
+    "pricing": [
+      { "name": "Vệ sinh văn phòng", "price": "Từ 2.000.000đ/tháng" },
+      { "name": "Vệ sinh nhà máy", "price": "Từ 5.000.000đ/tháng" },
+      { "name": "Thu gom rác hàng ngày", "price": "Liên hệ báo giá" }
+    ],
+    "faqs": [
+      { "question": "Có nhận hợp đồng dài hạn không?", "answer": "Có ạ, bên em nhận hợp đồng từ 3 tháng, 6 tháng đến 1 năm với giá ưu đãi." },
+      { "question": "Có hóa đơn VAT không?", "answer": "Có ạ, bên em xuất hóa đơn VAT đầy đủ cho mọi hợp đồng." }
+    ],
+    "relatedServices": ["nao-vet-ho-ga", "xu-ly-chat-thai"]
+  },
+  "cho-thue-xe": {
+    "icon": "truck",
+    "title": "Cho thuê xe hút",
+    "description": "Cho thuê xe hút chất thải các loại công suất",
+    "longDescription": "Cho thuê xe hút chất thải với nhiều công suất từ 2m³ đến 15m³. Phù hợp cho các công trình xây dựng, nhà máy, khu công nghiệp. Có lái xe chuyên nghiệp đi kèm.",
+    "benefits": [
+      "Đa dạng công suất 2-15m³",
+      "Xe mới, chất lượng cao",
+      "Lái xe chuyên nghiệp",
+      "Thuê theo ngày/tháng",
+      "Giá cạnh tranh",
+      "Hỗ trợ 24/7"
+    ],
+    "process": [
+      { "title": "Liên hệ", "description": "Gọi điện hoặc nhắn tin đặt xe." },
+      { "title": "Tư vấn", "description": "Nhân viên tư vấn loại xe phù hợp với nhu cầu." },
+      { "title": "Xác nhận", "description": "Xác nhận thời gian và địa điểm nhận xe." },
+      { "title": "Giao xe", "description": "Xe và lái xe đến đúng giờ theo yêu cầu." },
+      { "title": "Thanh toán", "description": "Thanh toán sau khi hoàn thành công việc." }
+    ],
+    "pricing": [
+      { "name": "Xe 2-3m³ (8 tiếng)", "price": "1.500.000đ/ca" },
+      { "name": "Xe 5-7m³ (8 tiếng)", "price": "2.000.000đ/ca" },
+      { "name": "Xe 10-15m³ (8 tiếng)", "price": "2.500.000đ/ca" }
+    ],
+    "faqs": [
+      { "question": "Xe có bao gồm lái xe không?", "answer": "Có, tất cả xe cho thuê đều có lái xe chuyên nghiệp đi kèm." },
+      { "question": "Nếu làm quá giờ thì tính thế nào?", "answer": "Phí phụ trội được tính theo giờ, thường là 10-15% giá ca/giờ làm thêm." }
+    ],
+    "relatedServices": ["hut-be-phot", "xu-ly-chat-thai"]
+  },
+  "xu-ly-chat-thai": {
+    "icon": "leaf",
+    "title": "Xử lý chất thải",
+    "description": "Xử lý chất thải nguy hại theo quy chuẩn môi trường",
+    "longDescription": "Xử lý chất thải nguy hại, chất thải công nghiệp theo đúng quy chuẩn môi trường Việt Nam. Có đầy đủ giấy phép vận chuyển và xử lý, cam kết tuân thủ pháp luật.",
+    "benefits": [
+      "Giấy phép đầy đủ",
+      "Tuân thủ quy chuẩn",
+      "Xử lý nhiều loại chất thải",
+      "Báo cáo xử lý chi tiết",
+      "Hỗ trợ thủ tục pháp lý",
+      "Cam kết bảo mật"
+    ],
+    "process": [
+      { "title": "Đăng ký", "description": "Doanh nghiệp đăng ký dịch vụ và cung cấp thông tin chất thải." },
+      { "title": "Khảo sát", "description": "Khảo sát, phân loại và đánh giá khối lượng chất thải." },
+      { "title": "Báo giá", "description": "Đưa ra phương án và báo giá xử lý." },
+      { "title": "Thu gom", "description": "Thu gom, vận chuyển chất thải đến nhà máy xử lý." },
+      { "title": "Xử lý", "description": "Xử lý theo quy trình và cấp chứng nhận xử lý." }
+    ],
+    "pricing": [
+      { "name": "Chất thải công nghiệp thông thường", "price": "Từ 500.000đ/tấn" },
+      { "name": "Chất thải nguy hại", "price": "Từ 2.000.000đ/tấn", "note": "Tùy loại chất thải" },
+      { "name": "Hợp đồng định kỳ", "price": "Liên hệ báo giá" }
+    ],
+    "faqs": [
+      { "question": "Chất thải nguy hại bao gồm những gì?", "answer": "Bao gồm: dầu thải, hóa chất, pin, ắc quy, bóng đèn huỳnh quang, chất thải y tế..." },
+      { "question": "Có cấp giấy chứng nhận xử lý không?", "answer": "Có ạ, bên em cấp đầy đủ chứng từ, báo cáo xử lý theo quy định pháp luật." }
+    ],
+    "relatedServices": ["ve-sinh-moi-truong", "cho-thue-xe"]
+  }
+}

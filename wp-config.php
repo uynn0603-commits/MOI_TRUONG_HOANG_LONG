@@ -17,7 +17,14 @@
  *
  * @package WordPress
  */
+define( 'MTRL_SMTP_HOST', 'smtp.gmail.com' );
+define( 'MTRL_SMTP_PORT', 587 );
+define( 'MTRL_SMTP_SECURE', 'tls' );
+define( 'MTRL_SMTP_USER', 'uynn0603@gmail.com' );
+define( 'MTRL_SMTP_PASS', 'ettd aclu aveg pubq' );
 
+define( 'MTRL_MAIL_FROM', 'uynn0603@gmail.com' );
+define( 'MTRL_MAIL_FROM_NAME', 'Hoàng Long Môi Trường' );
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define( 'DB_NAME', 'db_hoang_long_environment' );
